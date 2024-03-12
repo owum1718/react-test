@@ -27,3 +27,9 @@ form {
 form div {
   margin: 0.5rem;
 }
+
+#divide
+{
+  display: flex;
+  width: 30rem;
+}
